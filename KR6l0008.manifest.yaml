@@ -1,0 +1,983 @@
+canonical_identifier: bkk:krp/KR6l0008/v1
+canonical_location: https://kanripo.org/bkk/KR6l0008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿毘曇八犍度論
+  identifiers:
+    alt_id:
+    - T26n1543
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1543.xml
+    old_id: T26n1543
+  edition:
+    short: bkk
+editions:
+- short: 元
+  label: 元
+  source_xml_id: wit1
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 聖
+  label: 聖
+  source_xml_id: wit5
+- short: 聖乙
+  label: 聖乙
+  source_xml_id: wit6
+- short: 宮
+  label: 宮
+  source_xml_id: wit7
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit8
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit4
+- short: 南藏
+  label: 南藏
+  source_xml_id: wit10
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0008_000.yaml, hash: 'sha256:aa98f530aaf900603116501be885a4dd311f1e871a4cbea63e7afb5741b9772f'}
+  - {seq: 1, filename: KR6l0008_001.yaml, hash: 'sha256:ababc96f1cdbc96f88bb65015288462cfcdadec9fdbe0d7066f5ca1c368051e1'}
+  - {seq: 2, filename: KR6l0008_002.yaml, hash: 'sha256:a9c6bebc09f59a2a2c0adf71c52df689f1f6471fc8a0184060c248e331e5e630'}
+  - {seq: 3, filename: KR6l0008_003.yaml, hash: 'sha256:025b035f19a5a7dbcd8a2a355b1e18d3f9d9925536350171c45aa24e114ab5ad'}
+  - {seq: 4, filename: KR6l0008_004.yaml, hash: 'sha256:0773d75428d1aaabc716c638f7ff5b0d42b6de4a2af6b14fc1e00e8db3c64885'}
+  - {seq: 5, filename: KR6l0008_005.yaml, hash: 'sha256:d7b56b82b72d33a031cce20b74275019f339022238758b1b130cd5e00a93cee6'}
+  - {seq: 6, filename: KR6l0008_006.yaml, hash: 'sha256:d64cfce73d68da7bfb93adf43163de357df4124c4031d94a21fcfb6d236d9a86'}
+  - {seq: 7, filename: KR6l0008_007.yaml, hash: 'sha256:94adcfaafb9ce27abb8bf9d19a4d0d7d8b5d607b42ed4c9e489843a1a4446dea'}
+  - {seq: 8, filename: KR6l0008_008.yaml, hash: 'sha256:3b44b00bc4e9e94413df7b310bb4403b975dbe75f07fd985f30976d3e7d3575e'}
+  - {seq: 9, filename: KR6l0008_009.yaml, hash: 'sha256:5c01d47e30490fd8f1dda90e6a323573af41ffd84ac46707dc12ca01c456a805'}
+  - {seq: 10, filename: KR6l0008_010.yaml, hash: 'sha256:a35d27a3688004d8d338b1eeff44cded5ada37d3be394fe1f2e8c46ce4f0e9c5'}
+  - {seq: 11, filename: KR6l0008_011.yaml, hash: 'sha256:1bd7eeb284c16625ed20f9a6723920e0458c678b36d025276c0a39e61cc2e2e8'}
+  - {seq: 12, filename: KR6l0008_012.yaml, hash: 'sha256:0828cbd25af5e7464d5a7d8e02e8c71bafa28c999bdb091b613f0bf228b04652'}
+  - {seq: 13, filename: KR6l0008_013.yaml, hash: 'sha256:94160629a86558562ced7f8b3b168ef7125d17093fd2acfc79164da1c87d3b14'}
+  - {seq: 14, filename: KR6l0008_014.yaml, hash: 'sha256:d9810d21f7350c8c81de738da4cf4f31c519cce093fc1a42cf21e4806ab14656'}
+  - {seq: 15, filename: KR6l0008_015.yaml, hash: 'sha256:d71d99e1ad388765e2ce98a10d27faf1fb5591b77ac7740ba873cbf6c10733d5'}
+  - {seq: 16, filename: KR6l0008_016.yaml, hash: 'sha256:9408de302a35ce6ec75497fe8585117c9463111a3375fa3d0f24deb83935e3f8'}
+  - {seq: 17, filename: KR6l0008_017.yaml, hash: 'sha256:c09a4e471798284e1ef14b6c7bdac91cbdf901647cc27b81c718ddd6f757cfab'}
+  - {seq: 18, filename: KR6l0008_018.yaml, hash: 'sha256:9b9b2f67f5a411b7bd365bb6119bcacd3b427fa220b69bd17450ebacec5fea0d'}
+  - {seq: 19, filename: KR6l0008_019.yaml, hash: 'sha256:8e8c88475862e323947a5f030cec71a529a3084b69f58d1615c9731d2f328fb2'}
+  - {seq: 20, filename: KR6l0008_020.yaml, hash: 'sha256:09c74363b79fb95969aa29fa4f04908c59cb8ce77b397d2fc07c129e80b9edf4'}
+  - {seq: 21, filename: KR6l0008_021.yaml, hash: 'sha256:c1b8a75a79e738c2fbf7748a92c5e70d741ecbcc94e8cb63f50cd428426a2128'}
+  - {seq: 22, filename: KR6l0008_022.yaml, hash: 'sha256:d22263d072418a8ddd1145255252998a5a3fbf87e3601879c693f6186d1083ac'}
+  - {seq: 23, filename: KR6l0008_023.yaml, hash: 'sha256:44988b6019e1e8780cfddef2a6965702798872c81a1e5467d3dc4c8a540478b3'}
+  - {seq: 24, filename: KR6l0008_024.yaml, hash: 'sha256:d23050ee7241b012aa0d65c13eaa7dde187632c1b49190e1e7c0b58083b6926a'}
+  - {seq: 25, filename: KR6l0008_025.yaml, hash: 'sha256:85530b4ff0abcf56c215ef648b3003d83b30fe4f9b6c8e4127b1d8d48d881543'}
+  - {seq: 26, filename: KR6l0008_026.yaml, hash: 'sha256:ebe960431c8222bd193bf62314228326dfb19302ccba49fe8e7013349772d316'}
+  - {seq: 27, filename: KR6l0008_027.yaml, hash: 'sha256:e3fde9b9aaaaaa21eb39ef622c4c323bcd9c958fbbdef7f55f71024c9b1ce08c'}
+  - {seq: 28, filename: KR6l0008_028.yaml, hash: 'sha256:ad6e8364d7ec16c026f39ab6b5c88e965f09c4919ee3c076bb88e6cf9cff4e8f'}
+  - {seq: 29, filename: KR6l0008_029.yaml, hash: 'sha256:145d446680a54d49d8dde32b5ec29b8524cf97dcf84410dc4db695bd57970e25'}
+  - {seq: 30, filename: KR6l0008_030.yaml, hash: 'sha256:d275df0fabc8a4cf7e2ebc517784a70bba379de3a101cb0f1ffa58c50b645e35'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6l0008_000.markers.yaml, hash: 'sha256:183e8abc2ae4def1cdc310474b177715e6dab3315e155c6373f93b6fc3227804'}
+  - {seq: 1, role: markers, filename: assets/KR6l0008_001.markers.yaml, hash: 'sha256:fe3aa1667fc3ea4fc597258884d8a03dc6ea523e578efd7d987a4d307a0656dd'}
+  - {seq: 2, role: markers, filename: assets/KR6l0008_002.markers.yaml, hash: 'sha256:b92133b30c23ab2dcbc4c37712dc98452c8611bb47f271766ec537072c6a075f'}
+  - {seq: 3, role: markers, filename: assets/KR6l0008_003.markers.yaml, hash: 'sha256:eab63a359011236cb4784f394d340d65de32b1cd61c2125f3b479bb116f48a1f'}
+  - {seq: 4, role: markers, filename: assets/KR6l0008_004.markers.yaml, hash: 'sha256:4217627bde8d05602ecab140055936c5a00881f8b0fd83c9dc0e31a8a062a32c'}
+  - {seq: 5, role: markers, filename: assets/KR6l0008_005.markers.yaml, hash: 'sha256:773a21a8487c968f640ef7a6c6b9365ccea28e535c04b297cc4a8597a1549874'}
+  - {seq: 6, role: markers, filename: assets/KR6l0008_006.markers.yaml, hash: 'sha256:d31a7077326b708940cf2e4ee771a809576c12fe432a276205a9a1cd85c69b11'}
+  - {seq: 7, role: markers, filename: assets/KR6l0008_007.markers.yaml, hash: 'sha256:4c771932e9d6678b63d66fdc8c7f56abdc8204c437526dc829782247d8ffa266'}
+  - {seq: 8, role: markers, filename: assets/KR6l0008_008.markers.yaml, hash: 'sha256:9df2f1bfa3cfb734e3c7b8e79ca58e907a73627c607a6346a37157d84bbde0d2'}
+  - {seq: 9, role: markers, filename: assets/KR6l0008_009.markers.yaml, hash: 'sha256:5edb32dc5947438e40c0b0a32f812273d5a2ca08f7d2ad74a7ba0825a6fb68f3'}
+  - {seq: 10, role: markers, filename: assets/KR6l0008_010.markers.yaml, hash: 'sha256:50d44415fef488dd9405331e4edeeffbdd81075878d9f3f41cdec13e5cdc6368'}
+  - {seq: 12, role: markers, filename: assets/KR6l0008_012.markers.yaml, hash: 'sha256:f117558e06c0fd2bd56a1a93d6f7771348e7adbacba48331017a67864eab1257'}
+  - {seq: 15, role: markers, filename: assets/KR6l0008_015.markers.yaml, hash: 'sha256:87bb627b0e2f86577c3c8f9ec14449c81dacd083e624700892e98be71ae843d2'}
+  - {seq: 16, role: markers, filename: assets/KR6l0008_016.markers.yaml, hash: 'sha256:6db1c218bf5a8ecfb3c7199bf67a06a8663cf5daf23ae73a32fea4cf959cda8f'}
+  - {seq: 17, role: markers, filename: assets/KR6l0008_017.markers.yaml, hash: 'sha256:fe5e7456ee5eb7f91abfa5c45747c922742199d4e7637423465d6f9288efefff'}
+  - {seq: 18, role: markers, filename: assets/KR6l0008_018.markers.yaml, hash: 'sha256:fa5bc9705f63ede5fd714ba8a9079bec612a1c8d6840d43df37f1822e1f6af6b'}
+  - {seq: 20, role: markers, filename: assets/KR6l0008_020.markers.yaml, hash: 'sha256:15c453a6f7fdbab1366403795c7a5d3005d0f59cc9288f055687c6c875e5bd00'}
+  - {seq: 21, role: markers, filename: assets/KR6l0008_021.markers.yaml, hash: 'sha256:67d92bf872b6a891135081168952883ea285b5e24abfb961ddbf47c0fe0c5aae'}
+  - {seq: 22, role: markers, filename: assets/KR6l0008_022.markers.yaml, hash: 'sha256:91e4d4e997cc5092a0f7edd75707ca08474bcb63fd7263a0adaecb00a1735600'}
+  - {seq: 24, role: markers, filename: assets/KR6l0008_024.markers.yaml, hash: 'sha256:3151c5614c451805e909779b28e27f33c109865751fe4f1b0a03d809ae53237e'}
+  - {seq: 25, role: markers, filename: assets/KR6l0008_025.markers.yaml, hash: 'sha256:d926ac008a3c2784a2c4cfd5e9d3bd8b9bc9ed86b0b7bb8f741d6bed2ca1394d'}
+  - {seq: 26, role: markers, filename: assets/KR6l0008_026.markers.yaml, hash: 'sha256:bde4ced5375bb48703654ce0cf71a55b442229fb2b300b314c8f35fba975ec32'}
+  - {seq: 27, role: markers, filename: assets/KR6l0008_027.markers.yaml, hash: 'sha256:4cb904ad1eb09f8820d104c8a292f62a1cbaf49d6528ac42ca1430e392fb7519'}
+  - {seq: 28, role: markers, filename: assets/KR6l0008_028.markers.yaml, hash: 'sha256:74fc964d556a19696a8a78028af9e523de77efa05995f815ecac6c174ab878b8'}
+  - {seq: 29, role: markers, filename: assets/KR6l0008_029.markers.yaml, hash: 'sha256:cd6703fcb1ff767c2bb670916a9ddd3e369b0a56bff6035864f6d63ca6f262c8'}
+  - {seq: 30, role: markers, filename: assets/KR6l0008_030.markers.yaml, hash: 'sha256:fdb45f37663b7751d8ff9a4bef1ab8094e4e55ead55584c2545f99059e8cf47f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6l0008_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0008_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5631
+  label: 阿毘曇八犍度論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0008_T_001-mulu-1
+    span:
+    - body
+    - 35
+    - 35
+  label: 1 雜犍度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0008_T_001-mulu-2
+    span:
+    - body
+    - 63
+    - 63
+  label: 1 世間第一法跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0008_T_001-mulu-3
+    span:
+    - body
+    - 1954
+    - 1954
+  label: 2 智跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0008_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6994
+  label: 阿毘曇八犍度論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0008_T_002-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 3 人跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0008_T_002-mulu-2
+    span:
+    - body
+    - 2524
+    - 2524
+  label: 4 愛恭敬跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0008_T_002-mulu-3
+    span:
+    - body
+    - 5170
+    - 5170
+  label: 5 無慚愧跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0008_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5889
+  label: 阿毘曇八犍度論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0008_T_003-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 6 色跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0008_T_003-mulu-2
+    span:
+    - body
+    - 678
+    - 678
+  label: 7 無義跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0008_T_003-mulu-3
+    span:
+    - body
+    - 2259
+    - 2259
+  label: 8 思跋渠首
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0008_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7085
+  label: 阿毘曇八犍度論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0008_T_004-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 2 結使犍度
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0008_T_004-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: 1 不善跋渠初
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0008_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6495
+  label: 阿毘曇八犍度論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0008_T_005-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 2 一行跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0008_T_005-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0008_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5773
+  label: 阿毘曇八犍度論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0008_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6209
+  label: 阿毘曇八犍度論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0008_T_007-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 3 人跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0008_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 14441
+  label: 阿毘曇八犍度論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0008_T_008-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 4 十門跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0008_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 7263
+  label: 阿毘曇八犍度論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0008_T_009-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 3 智犍度
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0008_T_009-mulu-2
+    span:
+    - body
+    - 50
+    - 50
+  label: 1 八道跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0008_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 5530
+  label: 阿毘曇八犍度論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0008_T_010-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 2 五種跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0008_T_010-mulu-2
+    span:
+    - body
+    - 3398
+    - 3398
+  label: 3 知他心跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0008_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 7093
+  label: 阿毘曇八犍度論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0008_T_011-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 4 修智跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0008_T_011-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0008_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 6933
+  label: 阿毘曇八揵度論卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0008_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 7719
+  label: 阿毘曇八犍度論卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0008_T_013-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 5 智相應跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0008_T_013-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6l0008_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 7582
+  label: 阿毘曇八犍度論卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0008_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 5731
+  label: 阿毘曇八犍度論卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0008_T_015-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 4 行犍度
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0008_T_015-mulu-2
+    span:
+    - body
+    - 25
+    - 25
+  label: 1 惡行跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0008_T_015-mulu-3
+    span:
+    - body
+    - 2754
+    - 2754
+  label: 2 邪語跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6l0008_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 4802
+  label: 阿毘曇八揵度論卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6l0008_T_016-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 3 害眾生跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0008_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 7538
+  label: 阿毘曇八揵度論卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0008_T_017-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 4 有教無教跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0008_T_017-mulu-2
+    span:
+    - body
+    - 5106
+    - 5106
+  label: 5 自行跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0008_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 5704
+  label: 阿毘曇八犍度論卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0008_T_018-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 5 四大犍度
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0008_T_018-mulu-2
+    span:
+    - body
+    - 42
+    - 42
+  label: 1 淨根跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0008_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 6412
+  label: 阿毘曇八揵度論卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0008_T_019-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 2 緣跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6l0008_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 6830
+  label: 阿毘曇八犍度論卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6l0008_T_020-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 3 見諦跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6l0008_T_020-mulu-2
+    span:
+    - body
+    - 2133
+    - 2133
+  label: 4 內造跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6l0008_T_021-juan-start
+    span:
+    - body
+    - 0
+    - 10423
+  label: 阿毘曇八犍度論卷第二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6l0008_T_021-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 6 根犍度
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6l0008_T_021-mulu-2
+    span:
+    - body
+    - 40
+    - 40
+  label: 1 根跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6l0008_T_021-mulu-3
+    span:
+    - body
+    - 4119
+    - 4119
+  label: 2 有跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6l0008_T_021-mulu-4
+    span:
+    - body
+    - 8478
+    - 8478
+  label: 3 更樂跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6l0008_T_022-juan-start
+    span:
+    - body
+    - 0
+    - 7797
+  label: 阿毘曇八犍度論卷第二十二
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6l0008_T_022-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 4 始心跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6l0008_T_022-mulu-2
+    span:
+    - body
+    - 2316
+    - 2316
+  label: 5 始發心跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6l0008_T_022-mulu-3
+    span:
+    - body
+    - 5413
+    - 5413
+  label: 6 魚子跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6l0008_T_023-juan-start
+    span:
+    - body
+    - 0
+    - 5838
+  label: 阿毘曇八犍度論卷第二十三
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6l0008_T_023-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 7 緣跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6l0008_T_023-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6l0008_T_024-juan-start
+    span:
+    - body
+    - 0
+    - 4935
+  label: 阿毘曇八犍度論卷第二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6l0008_T_025-juan-start
+    span:
+    - body
+    - 0
+    - 4799
+  label: 阿毘曇八犍度論卷第二十五
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6l0008_T_025-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 7 定犍度
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6l0008_T_025-mulu-2
+    span:
+    - body
+    - 46
+    - 46
+  label: 1 過去得跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6l0008_T_026-juan-start
+    span:
+    - body
+    - 0
+    - 4589
+  label: 阿毘曇八犍度論卷第二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6l0008_T_026-mulu-1
+    span:
+    - body
+    - 1779
+    - 1779
+  label: 2 緣跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6l0008_T_027-juan-start
+    span:
+    - body
+    - 0
+    - 9508
+  label: 阿毘曇八揵度論卷第二十七
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6l0008_T_027-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 3 解脫跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6l0008_T_027-mulu-2
+    span:
+    - body
+    - 6980
+    - 6980
+  label: 4 阿那含跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6l0008_T_028-juan-start
+    span:
+    - body
+    - 0
+    - 6955
+  label: 阿毘曇八犍度論卷第二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6l0008_T_028-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 5 一行跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6l0008_T_029-juan-start
+    span:
+    - body
+    - 0
+    - 7186
+  label: 阿毘曇八犍度論卷第二十九
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6l0008_T_029-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 8 見犍度
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6l0008_T_029-mulu-2
+    span:
+    - body
+    - 36
+    - 36
+  label: 1 意止跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6l0008_T_029-mulu-3
+    span:
+    - body
+    - 4396
+    - 4396
+  label: 2 欲跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6l0008_T_030-juan-start
+    span:
+    - body
+    - 0
+    - 9735
+  label: 阿毘曇八犍度論卷第三十
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6l0008_T_030-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 3 想跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6l0008_T_030-mulu-2
+    span:
+    - body
+    - 1695
+    - 1695
+  label: 4 智時跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6l0008_T_030-mulu-3
+    span:
+    - body
+    - 4038
+    - 4038
+  label: 5 見跋渠
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6l0008_T_030-mulu-4
+    span:
+    - body
+    - 6486
+    - 6486
+  label: 6 偈跋渠
+  type: mulu
+  level: 1
+hash: sha256:a3dbc8c11273f6ca155d67058c0fb24d73888bcf11330cfbe801a0aefe31f4dd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
