@@ -12,7 +12,6 @@ markers:
   - {type: line-break, offset: 15, content: '', id: KR6l0008_T_007-0798a06, ed: T, 'n': 0798a06}
   - {type: xml-element, offset: 20, content: '', id: KR6l0008_T_007-bkkxmlele4, name: byline, role: close, attrs: {'cb:type': Translator}}
   - {type: line-break, offset: 20, content: '', id: KR6l0008_T_007-0798a07, ed: T, 'n': 0798a07}
-  - {type: substitution, offset: 21, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: variant, offset: 26, length: 1, content: 度, 宋: 度之四, 元: 度之四, 宮: 度之四, 明: 度第二之四}
   - {type: line-break, offset: 32, content: '', id: KR6l0008_T_007-0798a08, ed: T, 'n': 0798a08}
   - {type: xml-element, offset: 32, content: '', id: lgT26p0798a0801, name: lg, role: open, attrs: {type: regular, 'xml:id': lgT26p0798a0801}}
@@ -897,7 +896,6 @@ markers:
   - {type: line-break, offset: 3138, content: '', id: KR6l0008_T_007-0800a18, ed: T, 'n': 0800a18}
   - {type: punctuation, offset: 3142, content: ？, id: KR6l0008_T_007-bkkpn594}
   - {type: punctuation, offset: 3144, content: ：, id: KR6l0008_T_007-bkkpn595}
-  - {type: substitution, offset: 3151, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: line-break, offset: 3155, content: '', id: KR6l0008_T_007-0800a19, ed: T, 'n': 0800a19}
   - {type: punctuation, offset: 3156, content: ，, id: KR6l0008_T_007-bkkpn596}
   - {type: punctuation, offset: 3162, content: ，, id: KR6l0008_T_007-bkkpn597}
@@ -1603,7 +1601,6 @@ markers:
   - {type: line-break, offset: 6182, content: '', id: KR6l0008_T_007-0802a24, ed: T, 'n': 0802a24}
   - {type: xml-element, offset: 6182, content: '', id: pT26p0802a2401, name: p, role: open, attrs: {'xml:id': pT26p0802a2401}}
   - {type: variant, offset: 6182, length: 3, content: 阿毘曇, 宋: '', 元: '', 明: '', 宮: ''}
-  - {type: substitution, offset: 6183, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: xml-element, offset: 6191, content: '', id: KR6l0008_T_007-bkkxmlele33, name: note, role: open, attrs: {place: inline}}
   - {type: punctuation, offset: 6200, content: ，, id: KR6l0008_T_007-bkkpn1071}
   - {type: variant, offset: 6200, length: 9, content: 秦六千一百五十三言, 宋: '', 元: '', 明: '', 宮: '', 聖: '', 聖乙: ''}
@@ -1614,4 +1611,4 @@ markers:
   - {type: page-break, offset: 6209, content: '', id: KR6l0008_T_007-0802b, 'n': 0802b, ed: T, source_xml_id: T26.1543.0802b}
   - {type: line-break, offset: 6209, content: '', id: KR6l0008_T_007-0802b01, ed: T, 'n': 0802b01}
   back: []
-hash: sha256:4c771932e9d6678b63d66fdc8c7f56abdc8204c437526dc829782247d8ffa266
+hash: sha256:6bad396549cd443110901a17146eec8982c8a49f0c45cf283890919fe9ca1384

@@ -1303,7 +1303,6 @@ markers:
   - {type: line-break, offset: 5676, content: '', id: KR6l0008_T_018-0857c28, ed: T, 'n': 0857c28}
   - {type: xml-element, offset: 5676, content: '', id: pT26p0857c2801, name: p, role: open, attrs: {'xml:id': pT26p0857c2801}}
   - {type: variant, offset: 5676, length: 3, content: 阿毘曇, 宋: '', 元: '', 明: '', 宮: ''}
-  - {type: substitution, offset: 5677, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: xml-element, offset: 5686, content: '', id: KR6l0008_T_018-bkkxmlele45, name: note, role: open, attrs: {place: inline}}
   - {type: variant, offset: 5686, length: 1, content: 梵, 宋: 胡, 元: 胡, 宮: 胡}
   - {type: punctuation, offset: 5695, content: ，, id: KR6l0008_T_018-bkkpn805}
@@ -1316,4 +1315,4 @@ markers:
   - {type: line-break, offset: 5704, content: '', id: KR6l0008_T_018-0858a01, ed: T, 'n': 0858a01}
   - {type: line-break, offset: 5704, content: '', id: KR6l0008_T_018-0858a02, ed: T, 'n': 0858a02}
   back: []
-hash: sha256:fa5bc9705f63ede5fd714ba8a9079bec612a1c8d6840d43df37f1822e1f6af6b
+hash: sha256:159ea91c38f01f21510da0cb0be872bdcb375321f3baf0aea80eafa59424ee71

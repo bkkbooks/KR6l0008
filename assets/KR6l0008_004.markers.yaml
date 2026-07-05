@@ -13,7 +13,6 @@ markers:
   - {type: xml-element, offset: 20, content: '', id: KR6l0008_T_004-bkkxmlele4, name: byline, role: close, attrs: {'cb:type': Translator}}
   - {type: line-break, offset: 20, content: '', id: KR6l0008_T_004-0784c07, ed: T, 'n': 0784c07}
   - {type: variant, offset: 20, length: 7, content: 阿毘曇結〔使〕－【宋】【元】【宮】使【大】，〔－〕【宋】【元】【宮】使犍度, 明: '', 宋: 阿毘曇結使犍度第二之一不善一行人及十門阿毘曇結使犍度, 元: 阿毘曇結使犍度第二之一不善一行人及十門阿毘曇結使犍度, 宮: 阿毘曇結使犍度第二之一阿毘曇結使犍度}
-  - {type: substitution, offset: 21, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: variant, offset: 24, length: 1, content: 使, 宋: '', 元: '', 宮: ''}
   - {type: variant, offset: 27, length: 1, content: 不, 明: 結使犍度第二之一不善一行人及十門不}
   - {type: variant, offset: 31, length: 1, content: 初, 明: 第一}
@@ -2320,7 +2319,6 @@ markers:
   - {type: xml-element, offset: 7063, content: '', id: pT26p0789a0606_end, name: p, role: close, attrs: {'xml:id': pT26p0789a0606, 'cb:place': inline}}
   - {type: line-break, offset: 7063, content: '', id: KR6l0008_T_004-0789b18, ed: T, 'n': 0789b18}
   - {type: xml-element, offset: 7063, content: '', id: pT26p0789b1801, name: p, role: open, attrs: {'xml:id': pT26p0789b1801}}
-  - {type: substitution, offset: 7064, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: xml-element, offset: 7072, content: '', id: KR6l0008_T_004-bkkxmlele35, name: note, role: open, attrs: {place: inline}}
   - {type: variant, offset: 7072, length: 1, content: 梵, 宋: 胡, 宮: 胡, 聖: 胡, 聖乙: 胡}
   - {type: variant, offset: 7076, length: 1, content: 二, 明: 三}
@@ -2335,4 +2333,4 @@ markers:
   - {type: line-break, offset: 7085, content: '', id: KR6l0008_T_004-0789b21, ed: T, 'n': 0789b21}
   - {type: line-break, offset: 7085, content: '', id: KR6l0008_T_004-0789b22, ed: T, 'n': 0789b22}
   back: []
-hash: sha256:4217627bde8d05602ecab140055936c5a00881f8b0fd83c9dc0e31a8a062a32c
+hash: sha256:f4316a8a198f93d2700c6eb8cc2e0524619e6b65ea2b972719cec66bbca82693

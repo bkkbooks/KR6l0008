@@ -35,7 +35,6 @@ markers:
   - {type: xml-element, offset: 46, content: '', id: pT26p0887b0801_end, name: p, role: close, attrs: {'xml:id': pT26p0887b0801}}
   - {type: line-break, offset: 46, content: '', id: KR6l0008_T_025-0887b10, ed: T, 'n': 0887b10}
   - {type: variant, offset: 46, length: 3, content: 阿毘曇＋（定犍度）【聖乙】曇【大】，曇定犍度【聖乙】曇曇定犍度, 宋: '', 元: '', 明: '', 宮: ''}
-  - {type: substitution, offset: 47, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: variant, offset: 48, length: 1, content: 曇, 聖乙: 曇定犍度}
   - {type: variant, offset: 56, length: 2, content: 之一, 宋: '', 元: '', 明: '', 宮: '', 聖: '', 聖乙: ''}
   - {type: line-break, offset: 58, content: '', id: KR6l0008_T_025-0887b11, ed: T, 'n': 0887b11}
@@ -1038,4 +1037,4 @@ markers:
   - {type: line-break, offset: 4799, content: '', id: KR6l0008_T_025-0890c04, ed: T, 'n': 0890c04}
   - {type: line-break, offset: 4799, content: '', id: KR6l0008_T_025-0890c05, ed: T, 'n': 0890c05}
   back: []
-hash: sha256:d926ac008a3c2784a2c4cfd5e9d3bd8b9bc9ed86b0b7bb8f741d6bed2ca1394d
+hash: sha256:5a9143caee8cdfc4b458046c10ac1b61daf82b3f0b3532df00a7361d48443c4d

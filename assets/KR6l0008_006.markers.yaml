@@ -13,7 +13,6 @@ markers:
   - {type: xml-element, offset: 20, content: '', id: KR6l0008_T_006-bkkxmlele4, name: byline, role: close, attrs: {'cb:type': Translator}}
   - {type: line-break, offset: 20, content: '', id: KR6l0008_T_006-0794a07, ed: T, 'n': 0794a07}
   - {type: variant, offset: 20, length: 3, content: 阿毘曇, 宋: '', 元: '', 明: ''}
-  - {type: substitution, offset: 21, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: variant, offset: 26, length: 1, content: 度, 宋: 度之三, 元: 度之三, 宮: 度之三, 明: 度第二之三}
   - {type: variant, offset: 29, length: 2, content: 跋渠, 聖: 品, 聖乙: 品}
   - {type: variant, offset: 31, length: 1, content: 之, 明: 第二之}
@@ -673,7 +672,6 @@ markers:
   - {type: variant, offset: 3120, length: 1, content: 調, 宋: 掉, 元: 掉, 明: 掉, 宮: 掉}
   - {type: punctuation, offset: 3121, content: 、, id: KR6l0008_T_006-bkkpn417}
   - {type: line-break, offset: 3121, content: '', id: KR6l0008_T_006-0796a15, ed: T, 'n': 0796a15}
-  - {type: substitution, offset: 3124, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: variant, offset: 3127, length: 2, content: 相受, 聖乙: 根愛}
   - {type: punctuation, offset: 3130, content: ，, id: KR6l0008_T_006-bkkpn418}
   - {type: punctuation, offset: 3133, content: 。, id: KR6l0008_T_006-bkkpn419}
@@ -1420,7 +1418,6 @@ markers:
   - {type: line-break, offset: 5766, content: '', id: KR6l0008_T_006-0797c25, ed: T, 'n': 0797c25}
   - {type: xml-element, offset: 5766, content: '', id: pT26p0797c2501, name: p, role: open, attrs: {'xml:id': pT26p0797c2501}}
   - {type: variant, offset: 5766, length: 7, content: 阿毘曇一行跋渠, 宋: '', 元: '', 明: '', 宮: '', 聖: '', 聖乙: ''}
-  - {type: substitution, offset: 5767, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: xml-element, offset: 5770, content: '', id: KR6l0008_T_006-bkkxmlele53, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 5773, content: '', id: KR6l0008_T_006-bkkxmlele54, name: note, role: close, attrs: {place: inline}}
   - {type: punctuation, offset: 5773, content: 。, id: KR6l0008_T_006-bkkpn928}
@@ -1430,4 +1427,4 @@ markers:
   - {type: line-break, offset: 5773, content: '', id: KR6l0008_T_006-0798a01, ed: T, 'n': 0798a01}
   - {type: line-break, offset: 5773, content: '', id: KR6l0008_T_006-0798a02, ed: T, 'n': 0798a02}
   back: []
-hash: sha256:d31a7077326b708940cf2e4ee771a809576c12fe432a276205a9a1cd85c69b11
+hash: sha256:9892952be6188f9327c655642cec18b7873566043f35a5c9b559358a19c28f56

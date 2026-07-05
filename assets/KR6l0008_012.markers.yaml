@@ -1720,7 +1720,6 @@ markers:
   - {type: line-break, offset: 6905, content: '', id: KR6l0008_T_012-0830c12, ed: T, 'n': 0830c12}
   - {type: xml-element, offset: 6905, content: '', id: pT26p0830c1201, name: p, role: open, attrs: {'xml:id': pT26p0830c1201}}
   - {type: variant, offset: 6905, length: 9, content: 阿毘曇修智品第四＝十六【聖】【聖乙】四【大】，十六【聖】【聖乙】四十六竟, 宋: '', 元: '', 明: '', 宮: ''}
-  - {type: substitution, offset: 6906, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: variant, offset: 6912, length: 1, content: 四, 聖: 十六, 聖乙: 十六}
   - {type: xml-element, offset: 6914, content: '', id: KR6l0008_T_012-bkkxmlele15, name: note, role: open, attrs: {place: inline}}
   - {type: variant, offset: 6914, length: 19, content: 梵本九百三十首盧，秦一萬五千九百七十二言, 宋: 智跋渠第四竟胡本九百三十首盧, 元: 智跋渠第四竟胡本九百三十首盧, 宮: 智跋渠第四竟胡本九百三十首盧, 明: 智跋渠第四竟梵本九百三十首盧, 聖: 胡本九百三十首盧秦一萬五千九百七十二言, 聖乙: 胡本九百三十首盧秦一萬五千九百七十二言}
@@ -1734,4 +1733,4 @@ markers:
   - {type: line-break, offset: 6933, content: '', id: KR6l0008_T_012-0830c16, ed: T, 'n': 0830c16}
   - {type: line-break, offset: 6933, content: '', id: KR6l0008_T_012-0830c17, ed: T, 'n': 0830c17}
   back: []
-hash: sha256:f117558e06c0fd2bd56a1a93d6f7771348e7adbacba48331017a67864eab1257
+hash: sha256:ac7e35804f13876387524b10fc8f9729cd3a31f1dfc7f942e7b26f2dc20ecb50
