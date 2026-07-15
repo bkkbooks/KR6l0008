@@ -386,6 +386,7 @@ markers:
   - {type: punctuation, offset: 1738, content: 、, id: KR6l0008_T_019-bkkpn211}
   - {type: line-break, offset: 1739, content: '', id: KR6l0008_T_019-0859a21, ed: T, 'n': 0859a21}
   - {type: punctuation, offset: 1741, content: ？, id: KR6l0008_T_019-bkkpn212}
+  - {type: substitution, offset: 1747, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 1748, content: 。, id: KR6l0008_T_019-bkkpn213}
   - {type: xml-element, offset: 1748, content: '', id: pT26p0858a0801_end, name: p, role: close, attrs: {'xml:id': pT26p0858a0801}}
   - {type: xml-element, offset: 1748, content: '', id: pT26p0859a2110, name: p, role: open, attrs: {'xml:id': pT26p0859a2110, 'cb:place': inline}}
@@ -515,6 +516,7 @@ markers:
   - {type: punctuation, offset: 2049, content: ，, id: KR6l0008_T_019-bkkpn311}
   - {type: punctuation, offset: 2053, content: ？, id: KR6l0008_T_019-bkkpn312}
   - {type: punctuation, offset: 2055, content: ：, id: KR6l0008_T_019-bkkpn313}
+  - {type: substitution, offset: 2056, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: line-break, offset: 2063, content: '', id: KR6l0008_T_019-0859b11, ed: T, 'n': 0859b11}
   - {type: punctuation, offset: 2064, content: ，, id: KR6l0008_T_019-bkkpn314}
   - {type: punctuation, offset: 2069, content: 。, id: KR6l0008_T_019-bkkpn315}
@@ -1518,4 +1520,4 @@ markers:
   - {type: line-break, offset: 6412, content: '', id: KR6l0008_T_019-0862b07, ed: T, 'n': 0862b07}
   - {type: line-break, offset: 6412, content: '', id: KR6l0008_T_019-0862b08, ed: T, 'n': 0862b08}
   back: []
-hash: sha256:6890a2bb2b44760d5508a1bf4ccddc3fa13603382d64418c9730bfd9bd448fcc
+hash: sha256:5997529642474e53bb38a7c2d3bb8c914ea9cfe440862521dc04051fb3d01588

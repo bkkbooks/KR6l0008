@@ -143,6 +143,7 @@ markers:
   - {type: punctuation, offset: 601, content: ？, id: KR6l0008_T_023-bkkpn74}
   - {type: variant, offset: 601, length: 1, content: 此, 宋: 是, 元: 是, 明: 是, 宮: 是, 聖: 是, 聖乙: 是}
   - {type: line-break, offset: 604, content: '', id: KR6l0008_T_023-0880a22, ed: T, 'n': 0880a22}
+  - {type: substitution, offset: 607, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 608, content: 。, id: KR6l0008_T_023-bkkpn75}
   - {type: xml-element, offset: 608, content: '', id: pT26p0879c1901_end, name: p, role: close, attrs: {'xml:id': pT26p0879c1901}}
   - {type: line-break, offset: 608, content: '', id: KR6l0008_T_023-0880a23, ed: T, 'n': 0880a23}
@@ -1333,4 +1334,4 @@ markers:
   - {type: line-break, offset: 5838, content: '', id: KR6l0008_T_023-0883c17, ed: T, 'n': 0883c17}
   - {type: line-break, offset: 5838, content: '', id: KR6l0008_T_023-0883c18, ed: T, 'n': 0883c18}
   back: []
-hash: sha256:ad10c86dbb4249e9a8f14eb21a3c71383218b5c3e21c59c18e2b38d3d2bc474c
+hash: sha256:68f47b484658578deaae2c6ba578103aed05b35b82e3c05e5d02536da35d5ae3

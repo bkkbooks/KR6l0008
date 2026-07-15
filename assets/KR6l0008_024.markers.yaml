@@ -889,6 +889,7 @@ markers:
   - {type: line-break, offset: 4822, content: '', id: KR6l0008_T_024-0887a17, ed: T, 'n': 0887a17}
   - {type: xml-element, offset: 4822, content: '', id: pT26p0887a1701, name: p, role: open, attrs: {'xml:id': pT26p0887a1701}}
   - {type: variant, offset: 4822, length: 14, content: 阿毘曇根犍度緣跋渠＝因緣品【聖】【聖乙】根犍度緣跋渠【大】，因緣品【聖】【聖乙】根犍度緣跋渠因緣品第三十三竟＋（五百二十五首盧二萬一千言）【聖】【聖乙】竟【大】，竟五百二十五首盧二萬一千言【聖】【聖乙】竟竟五百二十五首盧二萬一千言, 宋: 阿毘曇論卷第二十四根揵度第六之四, 元: 阿毘曇論卷第二十四根揵度第六之四, 宮: 阿毘曇論卷第二十四根揵度第六之四, 明: ''}
+  - {type: substitution, offset: 4823, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20790}}
   - {type: variant, offset: 4825, length: 6, content: 根犍度緣跋渠, 聖: 因緣品, 聖乙: 因緣品}
   - {type: variant, offset: 4835, length: 1, content: 竟, 聖: 竟五百二十五首盧二萬一千言, 聖乙: 竟五百二十五首盧二萬一千言}
   - {type: punctuation, offset: 4836, content: 。, id: KR6l0008_T_024-bkkpn537}
@@ -930,4 +931,4 @@ markers:
   - {type: line-break, offset: 4935, content: '', id: KR6l0008_T_024-0887b01, ed: T, 'n': 0887b01}
   - {type: line-break, offset: 4935, content: '', id: KR6l0008_T_024-0887b02, ed: T, 'n': 0887b02}
   back: []
-hash: sha256:d3515f1b98f173b48cb8f2b8fa41c69f0cbd9ee40888695338081b37ad142a0b
+hash: sha256:8fc1603543fe5828a821d4eeaafcf28fe91cd6c828cadca52c2751164b35c312
